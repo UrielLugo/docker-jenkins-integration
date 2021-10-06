@@ -8,6 +8,6 @@ public class MainTest {
     
     @Test
     public void testInputIsEven(){
-        assertTrue(Main.checkIfInputIsAnEvenNumber(121));
+        assertTrue(Main.checkIfInputIsAnEvenNumber(122));
     }
 }
