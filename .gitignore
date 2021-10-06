@@ -11,3 +11,4 @@
 
 #Maven
 target/
+!target/java-docker-jenkins.jar
